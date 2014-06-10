@@ -1,0 +1,23 @@
+/* @override http://localhost:4000/css/site.css */
+
+body {
+  min-height: 2000px;
+}
+
+.navbar-static-top {
+    margin-bottom: 19px;
+}
+
+.paper .title {
+	font-size: 1.2em;	
+}
+
+.authors .author::after {
+	content: ";";
+}
+
+li.paper {
+	list-style-type: none;
+	text-shadow: #000000 0 0 0px;
+	margin-top: 0.5em;
+}

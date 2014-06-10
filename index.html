@@ -1,13 +1,63 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Anders Johannsen's academic homepage
 ---
+      <!-- Main component for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <div class="pull-right">
+          <img src="img/straw_hat.jpg" width="75"/>
+        </div>
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+        <h2>Anders Johannsen</h2>
+
+        I recently joined the Copenhagen Applied Statistical Learning (COASTAL) group at the <a href="http://ku.dk">University of Copenhagen</a> as a post.doc. 
+        My research focuses on developing <em>robust language technology</em> that allows us to cross domain and language barriers.
 </div>
+
+
+<h3>Software</h3>
+
+<ul>
+  <li>
+    <a href="https://github.com/coastalcph/rungsted">Rungsted</a>, a very fast and easily hackable structured perceptron implementation in Python. Supports cost-sensitive updates, constrained inference, and feature hashing.</li>
+  <li>
+    <a href="https://github.com/andersjo/framenet-annotation">FrameNet annotation tool</a>. A browser interface for marking up text with frame semantic information. The GUI displays textual descriptions of frame and arguments as needed, alleviating the need to memorize all the definitions.
+  </li>
+  <li>
+    <a href="https://github.com/andersjo/andreord">Andreord.dk</a>. Semantic networks presented in a graphical and accessible manner. Available as a public web site <a href="http://andreord.dk">here</a> and in a version with cross-language links <a href="http://wordties.cst.dk/">there</a>.
+  </li>  
+
+</ul>
+
+<h3>Publications</h3>
+
+<p>Since 2010, I've been the author or co-author of <strong>12</strong> papers in peer-reviewed publications.</p>
+
+<ul>
+{% for paper in site.data.publications %}
+  <li class="paper">
+    <span class="title">{{ paper.title }}</span> <br/>
+    <div class="authors">
+    {% for author in paper.authors %}
+      {% if author == "Johannsen, Anders" %} 
+        <span class="author bg-info">{{ author }}</span>  
+      {% else %}
+      <span class="author">{{ author }}</span>  
+      {% endif %} 
+    {% endfor %}
+    </div>
+    <span class="venue">{{ paper.venue }}.</span> 
+    <span class="place">{{ paper.place }}.</span> <span class="year">{{ paper.year }}</span><br/>
+  {% if paper.pdf %}
+      <a href="{{ paper.pdf }}">[pdf]</a>
+    {% endif %}
+
+  </li>
+{% endfor %}
+</ul>
+
+
+<!-- <h3>Activities</h3> !-->
+
+<!-- <p>List of talks</p> !-->
+

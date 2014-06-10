@@ -1,0 +1,137 @@
+- 
+  authors:
+  - Johannsen, Anders
+  - Hovy, Dirk
+  - Martinez, Hector
+  - Søgaard, Anders
+  title: "More or less supervised super-sense tagging of Twitter"
+  venue: "The 3rd Joint Conference on Lexical and Computational Semantics (*SEM)"
+  place: "Dublin, Ireland"
+  year: 2014
+- 
+  authors:
+  - Søgaard, Anders
+  - Johannsen, Anders
+  - Plank, Barbara
+  - Hovy, Dirk
+  - Martinez, Hector
+  title: "What is in a p-value in NLP?"
+  venue: "The 18th Conference on Computational Natural Language Learning (CoNLL)"
+  place: "Baltimore, MD"
+  year: 2014
+-
+  authors:
+  - Henriksen, Lina
+  - Johannsen, Anders
+  - Jongejan, Bart
+  - Maegaard, Bente
+  - Wedekind, Jürgen
+  title: "Worlds apart. Ontological knowledge in question answering for patients"
+  venue: "BioTxtM 2014 workshop at LREC"
+  place: "Reykjavik, Iceland"
+  year: 2014
+-
+  authors: 
+  - Søgaard, Anders
+  - Martinez, Hector
+  - Elming, Jakob
+  - Johannsen, Anders
+  title: "Using crowdsourcing to get representations based on regular expressions"
+  venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+  place: "Seattle, WA"
+  year: 2013
+  pdf: http://www.aclweb.org/anthology/D/D13/D13-1154.pdf
+
+-
+  authors: 
+  - Johannsen, Anders
+  - Søgaard, Anders
+  title: "Cross-domain answer ranking using importance sampling" 
+  venue: "The 6th International Joint Conference on Natural Language Processing (IJCNLP)"
+  place: "Nagoya, Japan"
+  year: 2013
+  pdf: http://www.aclweb.org/anthology/I/I13/I13-1132.pdf
+
+- 
+  authors: 
+  - Johannsen, Anders
+  - Søgaard, Anders
+  title: "Disambiguating explicit discourse connectives without oracles" 
+  venue: "The 6th International Joint Conference on Natural Language Processing (IJCNLP)"
+  place: "Nagoya, Japan"
+  year: 2013
+  pdf: http://www.aclweb.org/anthology/I/I13/I13-1134.pdf
+
+-
+  authors: 
+  - Søgaard, Anders
+  - Johannsen, Anders
+  title: "Robust learning in random subspaces: equipping NLP for OOV effects"
+  venue: "The 24th International Conference on Computational Linguistics (COLING)"
+  place: "Mumbai, India"
+  year: 2012
+  pdf: http://aclweb.org/anthology-new/C/C12/C12-2114.pdf
+
+- 
+  author: 
+  - Johannsen, Anders
+  - Martinez, Hector
+  - Klerke, Sigrid
+  - Søgaard, Anders
+  title: "EMNLP@CPH: Is frequency all there is to simplicity?"
+  venue: "SemEval-2012, 1st Joint Conference on Lexical and Computational Semantics"
+  place: "Montreal, Canada"
+  year: 2012
+  pdf: http://aclweb.org/anthology-new/S/S12/S12-1054.pdf
+
+-
+  authors: 
+  - Braasch, Anna
+  - Henriksen, Lina
+  - Huszka, Csaba
+  - Johannsen, Anders
+  - Kayser, Lars
+  - Maegaard, Bente
+  - Norgaard, Ole
+  - Schulz, Stefan
+  - Wedekind, Jürgen
+  title: "Creation and use of Language Resources in a Question-Answering eHealth System"
+  venue: "Eighth International Conference on Language Resources and Evaluation (LREC)"
+  year: 2012
+
+-
+  authors: 
+  - Johannsen, Anders
+  - Pedersen, Bolette
+  title: "'Andre ord' - a wordnet browser for the Danish wordnet, DanNet"
+  venue: "18th Nordic Conference of Computational Linguistics (NODALIDA)"
+  place: "Riga, Latvia"
+  year: 2011
+
+-
+  authors: 
+  - Johannsen, Anders
+  - Martinez, Hector
+  - Rishøj, Christian
+  - Søgaard, Anders
+  title: "Frustratingly hard compositionality prediction"
+  venue: "The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT)"
+  place: "Portland, Oregon"
+  pdf: http://aclweb.org/anthology-new/W/W11/W11-1305.pdf
+  year: 2011
+
+-
+  authors: 
+  - Søgaard, Anders
+  - Johannsen, Anders
+  title: "Robust semi-supervised and ensemble-based methods in word sense disambiguation"
+  venue: "The 7th International Conference on Natural Language Processing (IceTAL)"
+  place: "Reykjavik, Iceland"
+  pdf: http://www.springerlink.com/index/VL1K4192T38UX525.pdf
+  year: 2010
+
+
+
+
+
+
