@@ -46,6 +46,18 @@
   place: "Reykjavik, Iceland"
   year: 2014
 -
+  authors:
+  - Elming, Jakob
+  - Johannsen, Anders
+  - Klerke, Sigrid
+  - Lapponi, Emanuele
+  - Martinez, Hector
+  - Søgaard, Anders
+  title: "Down-stream effects of tree-to-dependency conversions"
+  venue: "North American Chapter of the Association for Computational Linguistics (NAACL)"
+  place: "Seattle, WA"
+  year: 2013
+-
   authors: 
   - Søgaard, Anders
   - Martinez, Hector
