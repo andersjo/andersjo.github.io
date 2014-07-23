@@ -1,5 +1,14 @@
 -
   authors:
+  - Plank, Barbara
+  - Johannsen, Anders
+  - Søgaard, Anders
+  title: "Importance weighting and unsupervised domain adaptation of POS taggers: a negative result"
+  venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+  place: "Doha, Qatar"
+  year: 2014
+-
+  authors:
   - Schluter, Natalie
   - Søgaard, Anders
   - Elming, Jakob
@@ -12,7 +21,6 @@
   venue: "International Workshop on Semantic Evaluation (SemEval-2014)"
   place: "Dublin, Ireland"
   year: 2014
-  
 - 
   authors:
   - Johannsen, Anders
