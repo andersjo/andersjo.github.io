@@ -21,6 +21,7 @@
   venue: "International Workshop on Semantic Evaluation (SemEval-2014)"
   place: "Dublin, Ireland"
   year: 2014
+  pdf: http://alt.qcri.org/semeval2014/cdrom/pdf/SemEval034.pdf
 - 
   authors:
   - Johannsen, Anders
@@ -31,6 +32,7 @@
   venue: "The 3rd Joint Conference on Lexical and Computational Semantics (*SEM)"
   place: "Dublin, Ireland"
   year: 2014
+  pdf: http://aclweb.org/anthology/S14-1001
 - 
   authors:
   - Søgaard, Anders
@@ -42,6 +44,7 @@
   venue: "The 18th Conference on Computational Natural Language Learning (CoNLL)"
   place: "Baltimore, MD"
   year: 2014
+  pdf: http://www.aclweb.org/anthology/W/W14/W14-1601.pdf
 -
   authors:
   - Henriksen, Lina
@@ -65,6 +68,7 @@
   venue: "North American Chapter of the Association for Computational Linguistics (NAACL)"
   place: "Seattle, WA"
   year: 2013
+  pdf: http://www.aclweb.org/anthology/N13-1070
 -
   authors: 
   - Søgaard, Anders
