@@ -1,5 +1,39 @@
 -
   authors:
+  - Martinez, Hector
+  - Johannsen, Anders
+  - Plank, Barbara
+  - Søgaard, Anders
+  title: "Active learning for sense annotation"
+  venue: "20th Nordic Conference on Computational Linguistics (NoDaLiDA 2015)"
+  place: "Vilnius, Lithuania"
+  year: 2015
+-
+  authors:
+  - Martinez, Hector
+  - Johannsen, Anders
+  - Plank, Barbara
+  - Søgaard, Anders
+  - Olsen, Sussi
+  - Braasch, Anna
+  - Nimb, Sanni
+  - Sørensen, Nicolai Hartvig
+  - Pedersen, Bolette Sandford
+  title: "Supersense tagging for Danish"
+  venue: "20th Nordic Conference on Computational Linguistics (NoDaLiDA 2015)"
+  place: "Vilnius, Lithuania"
+  year: 2015
+-
+  authors:
+  - Hovy, Dirk
+  - Johannsen, Anders
+  - Søgaard, Anders
+  title: "User review sites as a resource for large-scale sociolinguistic studies"
+  venue: "The 24th International World Wide Web Conference (WWW)"
+  place: "Florence, Italy"
+  year: 2015
+-
+  authors:
   - Plank, Barbara
   - Johannsen, Anders
   - Søgaard, Anders

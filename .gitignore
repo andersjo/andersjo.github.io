@@ -34,3 +34,13 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Editor
+.idea
+
+# Generated site
+_site
+
+# Edited files 
+*~
+

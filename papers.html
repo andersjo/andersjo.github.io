@@ -1,0 +1,30 @@
+---
+layout: default
+title: Publications
+---
+<h2>My publications</h2>
+
+<ul>
+{% for paper in site.data.publications %}
+  <li class="paper">
+  	<span class="title">{{ paper.title }}</span> <br/>
+  	<div class="authors">
+  	{% for author in paper.authors %}
+  		{% if author == "Johannsen, Anders" %} 
+  			<span class="author bg-info">{{ author }}</span>	
+  		{% else %}
+			<span class="author">{{ author }}</span>	
+  		{% endif %} 
+  	{% endfor %}
+  	</div>
+  	<span class="venue">{{ paper.venue }}.</span> 
+  	<span class="place">{{ paper.place }}.</span> <span class="year">{{ paper.year }}</span><br/>
+	{% if paper.pdf %}
+    	<a href="{{ paper.pdf }}">[pdf]</a>
+  	{% endif %}
+
+
+
+  </li>
+{% endfor %}
+</ul>
