@@ -5,14 +5,25 @@ title: Anders Johannsen's academic homepage
       <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div class="pull-right">
-          <img src="img/straw_hat.jpg" width="75"/>
+          <img src="img/straw_hat.jpg" width="100"/>
         </div>
 
         <h2>Anders Johannsen</h2>
 
-        I recently joined the Copenhagen Applied Statistical Learning (COASTAL) group at the <a href="http://ku.dk">University of Copenhagen</a> as a post.doc. 
-        My research focuses on developing <em>robust language technology</em> that allows us to cross domain and language barriers.
+        I am a part of the Copenhagen Applied Statistical Learning (COASTAL) group at the <a href="http://ku.dk">University of Copenhagen</a> as a two-year post.doc (2014-2016).
+        My research focuses on developing <em>robust language technology</em> that allows us to cross time, domain and language barriers.
+        Being able to process and extract meaning from text outside of the mainstream (e.g. historical documents and posts from social media) is instrumental when we wish to analyse culture and language at a larger scale.
+        
 </div>
+
+<h3>News</h3>
+
+
+<ul>
+  <li>
+    Our SEMEVAL-2016 shared task proposal on <a href="http://alt.qcri.org/semeval2016/">Detection of Minimal Semantic Units and their Meanings</a> (DimSUM) was accepted. Credit for the wonderful acronym goes to Nathan Schneider.
+  </li>
+</ul>
 
 
 <h3>Software</h3>
@@ -31,7 +42,7 @@ title: Anders Johannsen's academic homepage
 
 <h3>Publications</h3>
 
-<p>Since 2010, I've been the author or co-author of <strong>18</strong> papers in peer-reviewed publications.</p>
+<p>Since 2010, I've been the author or co-author of <strong>{{ site.data.publications | size }}</strong> papers in peer-reviewed publications.</p>
 
 <ul>
 {% for paper in site.data.publications %}

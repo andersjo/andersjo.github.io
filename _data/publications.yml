@@ -1,5 +1,17 @@
 -
   authors:
+  - Søgaard, Anders
+  - Agic, Zeljko
+  - Martinez, Hector
+  - Plank, Barbara
+  - Bohnet, Bernd
+  - Johannsen, Anders
+  title: "Inverted indexing for cross-lingual NLP"
+  venue: "The 53rd Annual Meeting of the Association for Computational Linguistics (ACL 2015)"
+  place: "Beijing, China"
+  year: 2015
+-
+  authors:
   - Martinez, Hector
   - Johannsen, Anders
   - Plank, Barbara
