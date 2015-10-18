@@ -2,6 +2,9 @@
 
 body {
   min-height: 2000px;
+  padding-top: 70px;
+  padding-bottom: 30px;
+
 }
 
 .navbar-static-top {
@@ -21,3 +24,4 @@ li.paper {
 	text-shadow: #000000 0 0 0px;
 	margin-top: 0.5em;
 }
+
