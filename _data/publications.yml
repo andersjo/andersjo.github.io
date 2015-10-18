@@ -1,3 +1,42 @@
+-  
+  authors:
+  - Martinez, Hector
+  - Johannsen, Anders
+  - Nimb, Sanni
+  - Olsen, Sussi
+  - Pedersen, Bolette
+  title: "An empirically grounded expansion of the supersense inventory"
+  venue: "Global Wordnet Conference (GWC-2016)"
+  place: "Bucharest, Rumania"
+  year: 2016
+-
+  authors:
+  - Johannsen, Anders
+  - Martinez, Hector
+  - Søgaard, Anders
+  title: "Any-language frame-semantic parsing"
+  venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+  place: "Lisbon, Portugal"
+  year: 2015
+-
+  authors:
+  - Martinez, Hector
+  - Johannsen, Anders
+  - de Lacalle, Oier Lopez
+  - Agirre, Eneko
+  title: "Predicting word sense annotation agreement"
+  venue: "EMNLP Workshop on Computational Semantics (LSDSem 2015)"
+  place: "Lisbon, Portugal"
+  year: 2015
+-
+  authors:
+  - Johannsen, Anders
+  - Hovy, Dirk
+  - Søgaard, Anders
+  title: "Cross-lingual syntactic variation over age and gender"
+  venue: "The 19th Conference on Computational Natural Language Learning (CoNLL 2015)"
+  place: "Beijing, China"
+  year: 2015
 -
   authors:
   - Søgaard, Anders
@@ -20,11 +59,11 @@
   venue: "20th Nordic Conference on Computational Linguistics (NoDaLiDA 2015)"
   place: "Vilnius, Lithuania"
   year: 2015
+  pdf: http://www.aclweb.org/anthology/W15-1831
 -
   authors:
   - Martinez, Hector
   - Johannsen, Anders
-  - Plank, Barbara
   - Søgaard, Anders
   - Olsen, Sussi
   - Braasch, Anna
@@ -33,6 +72,17 @@
   - Pedersen, Bolette Sandford
   title: "Supersense tagging for Danish"
   venue: "20th Nordic Conference on Computational Linguistics (NoDaLiDA 2015)"
+  place: "Vilnius, Lithuania"
+  year: 2015
+  pdf: http://www.aclweb.org/anthology/W15-1806
+-
+  authors:
+  - Olsen, Sussi
+  - Pedersen, Bolette Sandford
+  - Martinez, Hector
+  - Johannsen, Anders
+  title: "Coarse-Grained Sense Annotation of Danish across Textual Domain"
+  venue: "Semantic resources and semantic annotation for Natural Language Processing and the Digital Humanities"
   place: "Vilnius, Lithuania"
   year: 2015
 -
@@ -44,6 +94,7 @@
   venue: "The 24th International World Wide Web Conference (WWW)"
   place: "Florence, Italy"
   year: 2015
+  pdf: http://www.www2015.it/documents/proceedings/proceedings/p452.pdf
 -
   authors:
   - Plank, Barbara
@@ -53,6 +104,7 @@
   venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
   place: "Doha, Qatar"
   year: 2014
+  pdf: http://emnlp2014.org/papers/pdf/EMNLP2014104.pdf
 -
   authors:
   - Schluter, Natalie
@@ -102,6 +154,7 @@
   venue: "BioTxtM 2014 workshop at LREC"
   place: "Reykjavik, Iceland"
   year: 2014
+  pdf: http://www.nactem.ac.uk/biotxtm2014/papers/Henriksenetal.pdf
 -
   authors:
   - Elming, Jakob
@@ -158,7 +211,7 @@
   pdf: http://aclweb.org/anthology-new/C/C12/C12-2114.pdf
 
 - 
-  author: 
+  authors: 
   - Johannsen, Anders
   - Martinez, Hector
   - Klerke, Sigrid
@@ -182,7 +235,9 @@
   - Wedekind, Jürgen
   title: "Creation and use of Language Resources in a Question-Answering eHealth System"
   venue: "Eighth International Conference on Language Resources and Evaluation (LREC)"
+  place: "Istanbul, Turkey"
   year: 2012
+  pdf: http://www.lrec-conf.org/proceedings/lrec2012/pdf/504_Paper.pdf
 
 -
   authors: 
@@ -192,6 +247,7 @@
   venue: "18th Nordic Conference of Computational Linguistics (NODALIDA)"
   place: "Riga, Latvia"
   year: 2011
+  pdf: http://dspace.utlib.ee/dspace/bitstream/handle/10062/17357/0Johannsen_Pedersen_62.pdf
 
 -
   authors: 
