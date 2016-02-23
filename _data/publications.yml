@@ -1,3 +1,33 @@
+-
+  authors:
+  - Stegmann, Beeke
+  - Johannsen, Anders
+  title: "Codicologist vs. computer: how can machine learning support research in manuscript studies?"
+  venue: "First Nordic Digital Humanities Conference"
+  place: "Oslo, Norway"
+  year: 2016
+-
+  authors:
+  - Hovy, Dirk
+  - Johannsen, Anders
+  title: "Exploring Language Variation Across Europe. A Web-based Tool for Computational Sociolinguistics"
+  venue: "Language Resources and Evaluation Conference (LREC-2016)"
+  place: "Portorož, Slovenia"
+  year: 2016
+-
+  authors:
+  - Pedersen, Bolette Sandford
+  - Braasch, Anna
+  - Johannsen, Anders
+  - Martinez, Hector
+  - Nimb, Sanni
+  - Olsen, Sussi
+  - Søgaard, Anders
+  - Sørensen, Nicolai Hartvig
+  title: "The SemDaX corpus – sense annotations with scalable sense inventories"
+  venue: "Language Resources and Evaluation Conference (LREC-2016)"
+  place: "Portorož, Slovenia"
+  year: 2016
 -  
   authors:
   - Martinez, Hector
@@ -9,6 +39,15 @@
   venue: "Global Wordnet Conference (GWC-2016)"
   place: "Bucharest, Rumania"
   year: 2016
+-  
+  authors:
+  - Johannsen, Anders
+  - Martinez, Hector
+  - Plank, Barbara
+  title: "Universal dependencies for Danish"
+  venue: "Treebanks & Linguistic Theories 14 (TLT-14)"
+  place: "Warsaw, Plant"
+  year: 2015
 -
   authors:
   - Johannsen, Anders
