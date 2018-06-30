@@ -4,16 +4,13 @@ title: Anders Johannsen's academic homepage
 ---
       <!-- Main component for a primary marketing message or call to action -->
       <div class="well">
-        <div style="float: right; margin-left: 2em;">
-          <img src="img/straw_hat.jpg" width="100"/>
-        </div>
-
       	<h3 style="margin-top: 0em">Anders Johannsen</h3>
 
         <p>
-        My research focuses on developing <em>robust language technology</em> that allows us to cross time, domain and language barriers.
-        Being able to process and extract meaning from text outside of the mainstream (e.g. historical documents and posts from social media) is instrumental when we wish to analyse culture and language at a larger scale.</p>
-        
+        Since 2016, I've worked at Apple as an applied senior researcher in natural language processing.
+        I live near Cambridge, UK.
+      </p>
+
 </div>
 
 <!--
@@ -27,25 +24,10 @@ title: Anders Johannsen's academic homepage
 </ul>
 !-->
 
-<h3>Software</h3>
-
-<ul>
-  <li>
-    <a href="https://github.com/andersjo/hanstholm">Hanstholm</a>, a transition-based dependency parser with a completely open feature model. One of the few parsers to support real-valued features.</li>
-  <li>
-    <a href="https://github.com/coastalcph/rungsted">Rungsted</a>, a very fast and easily hackable structured perceptron implementation in Python. Supports cost-sensitive updates, constrained inference, and feature hashing.</li>
-  <li>
-    <a href="https://github.com/andersjo/framenet-annotation">FrameNet annotation tool</a>. A browser interface for marking up text with frame semantic information. The GUI displays textual descriptions of frame and arguments as needed, alleviating the need to memorize all the definitions.
-  </li>
-  <li>
-    <a href="https://github.com/andersjo/andreord">Andreord.dk</a>. Semantic networks presented in a graphical and accessible manner. Available as a public web site <a href="http://andreord.dk">here</a> and in a version with cross-language links <a href="http://wordties.cst.dk/">there</a>.
-  </li>  
-
-</ul>
 
 <h3>Publications</h3>
 
-<p>Since 2010, I've been the author or co-author of <strong>{{ site.data.publications | size }}</strong> papers in peer-reviewed publications.</p>
+<p>Between 2010 and 2016, I've was the author or co-author of <strong>{{ site.data.publications | size }}</strong> papers in peer-reviewed publications.</p>
 
 <ul>
 {% for paper in site.data.publications %}
@@ -53,14 +35,14 @@ title: Anders Johannsen's academic homepage
     <span class="title">{{ paper.title }}</span> <br/>
     <div class="authors">
     {% for author in paper.authors %}
-      {% if author == "Johannsen, Anders" %} 
-        <span class="author bg-info">{{ author }}</span>  
+      {% if author == "Johannsen, Anders" %}
+        <span class="author bg-info">{{ author }}</span>
       {% else %}
-      <span class="author">{{ author }}</span>  
-      {% endif %} 
+      <span class="author">{{ author }}</span>
+      {% endif %}
     {% endfor %}
     </div>
-    <span class="venue">{{ paper.venue }}.</span> 
+    <span class="venue">{{ paper.venue }}.</span>
     <span class="place">{{ paper.place }}.</span> <span class="year">{{ paper.year }}</span><br/>
   {% if paper.pdf %}
       <a href="{{ paper.pdf }}">[pdf]</a>
@@ -74,4 +56,3 @@ title: Anders Johannsen's academic homepage
 <!-- <h3>Activities</h3> !-->
 
 <!-- <p>List of talks</p> !-->
-
